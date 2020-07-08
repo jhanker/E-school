@@ -1,0 +1,19 @@
+nav ul{
+    float: right;
+    margin-right: 50px;
+}
+.navbar-brand{
+    float:left;
+    margin-left: 80px;
+
+}
+.btn-btn{
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    border shadow: green 1px;
+}
+.container{
+    background-image: solid green ;
+}
+
